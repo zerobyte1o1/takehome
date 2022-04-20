@@ -1,0 +1,61 @@
+[ {
+  "uid" : "b76ad4b676779156",
+  "name" : "输入大于99的加数_02",
+  "time" : {
+    "start" : 1650446875224,
+    "stop" : 1650446875224,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e444606456e371e",
+  "name" : "输入-99到99之内的整数",
+  "time" : {
+    "start" : 1650446875230,
+    "stop" : 1650446875231,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51b4503544d06893",
+  "name" : "输入小于-99的加数_02",
+  "time" : {
+    "start" : 1650446875228,
+    "stop" : 1650446875228,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "285b8b2aa76c6301",
+  "name" : "输入小于-99的加数_01",
+  "time" : {
+    "start" : 1650446875232,
+    "stop" : 1650446875232,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e4e414241c5a785",
+  "name" : "输入-99到99之间的浮点数",
+  "time" : {
+    "start" : 1650446875227,
+    "stop" : 1650446875227,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cf35671801ebb8e",
+  "name" : "输入大于99的加数_01",
+  "time" : {
+    "start" : 1650446875229,
+    "stop" : 1650446875229,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

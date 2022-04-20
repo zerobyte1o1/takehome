@@ -21,4 +21,4 @@ class YamlHandle:
 
 if __name__ == '__main__':
     p = YamlHandle('../data/use_case.yaml').get_data('add')
-    print(p)
+    print(p[0]['case_id'])

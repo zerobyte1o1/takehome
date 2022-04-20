@@ -1,0 +1,119 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_cal",
+    "children" : [ {
+      "name" : "test_calculator",
+      "children" : [ {
+        "name" : "TestCalculator",
+        "children" : [ {
+          "name" : "输入大于99的加数_02",
+          "uid" : "b76ad4b676779156",
+          "parentUid" : "445afcc9c696d30501dcf331b23d8618",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650446875224,
+            "stop" : 1650446875224,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'case_id': 6, 'title': '输入大于99的加数_02', 'tag': 'p2', 'data': {'a': 80, 'b': 100}, 'msg': {'res': '参数大小超出范围'}}" ]
+        }, {
+          "name" : "输入-99到99之间的浮点数",
+          "uid" : "5e4e414241c5a785",
+          "parentUid" : "445afcc9c696d30501dcf331b23d8618",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650446875227,
+            "stop" : 1650446875227,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'case_id': 2, 'title': '输入-99到99之间的浮点数', 'tag': 'p0', 'data': {'a': 3.5, 'b': -1.2}, 'msg': {'res': 2.3}}" ]
+        }, {
+          "name" : "输入小于-99的加数_02",
+          "uid" : "51b4503544d06893",
+          "parentUid" : "445afcc9c696d30501dcf331b23d8618",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650446875228,
+            "stop" : 1650446875228,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'case_id': 4, 'title': '输入小于-99的加数_02', 'tag': 'p2', 'data': {'a': -99, 'b': -100}, 'msg': {'res': '参数大小超出范围'}}" ]
+        }, {
+          "name" : "输入大于99的加数_01",
+          "uid" : "7cf35671801ebb8e",
+          "parentUid" : "445afcc9c696d30501dcf331b23d8618",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650446875229,
+            "stop" : 1650446875229,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'case_id': 5, 'title': '输入大于99的加数_01', 'tag': 'p2', 'data': {'a': 100, 'b': 80}, 'msg': {'res': '参数大小超出范围'}}" ]
+        }, {
+          "name" : "输入-99到99之内的整数",
+          "uid" : "e444606456e371e",
+          "parentUid" : "445afcc9c696d30501dcf331b23d8618",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650446875230,
+            "stop" : 1650446875231,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'case_id': 1, 'title': '输入-99到99之内的整数', 'tag': 'p0', 'data': {'a': 1, 'b': 2}, 'msg': {'res': 3}}" ]
+        }, {
+          "name" : "输入小于-99的加数_01",
+          "uid" : "285b8b2aa76c6301",
+          "parentUid" : "445afcc9c696d30501dcf331b23d8618",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650446875232,
+            "stop" : 1650446875232,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'case_id': 3, 'title': '输入小于-99的加数_01', 'tag': 'p2', 'data': {'a': -100, 'b': -99}, 'msg': {'res': '参数大小超出范围'}}" ]
+        } ],
+        "uid" : "445afcc9c696d30501dcf331b23d8618"
+      } ],
+      "uid" : "45681e0116cc82eb8c80fe3824951377"
+    } ],
+    "uid" : "258d9ac32a6b16801e0f95a0a698b27d"
+  } ]
+}
