@@ -1,59 +1,129 @@
 [ {
-  "uid" : "b76ad4b676779156",
-  "name" : "输入大于99的加数_02",
+  "uid" : "c1b940d9e01b4cc1",
+  "name" : "输入小于-99的加数_01",
   "time" : {
-    "start" : 1650446875224,
-    "stop" : 1650446875224,
+    "start" : 1650448246743,
+    "stop" : 1650448246743,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e444606456e371e",
+  "uid" : "b1edef6cc690b93",
+  "name" : "输入小于-99的加数_02",
+  "time" : {
+    "start" : 1650448246736,
+    "stop" : 1650448246736,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bdc291841923cf6",
+  "name" : "输入大于99的加数_02",
+  "time" : {
+    "start" : 1650448246741,
+    "stop" : 1650448246741,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4844ac06057b1699",
   "name" : "输入-99到99之内的整数",
   "time" : {
-    "start" : 1650446875230,
-    "stop" : 1650446875231,
+    "start" : 1650448246735,
+    "stop" : 1650448246735,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58e57454009fabcc",
+  "name" : "输入小于-99的加数_01",
+  "time" : {
+    "start" : 1650448246739,
+    "stop" : 1650448246739,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0eefab9cff0da72",
+  "name" : "输入大于99的加数_01",
+  "time" : {
+    "start" : 1650448246747,
+    "stop" : 1650448246747,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dd86a06cde698ba",
+  "name" : "输入-99到99之内的浮点数",
+  "time" : {
+    "start" : 1650448246734,
+    "stop" : 1650448246734,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "360b4fc3f91fb019",
+  "name" : "输入-99到99之间的浮点数",
+  "time" : {
+    "start" : 1650448246737,
+    "stop" : 1650448246738,
     "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "51b4503544d06893",
-  "name" : "输入小于-99的加数_02",
+  "uid" : "83a2b3e6010738d6",
+  "name" : "输入-99到99之内的整数",
   "time" : {
-    "start" : 1650446875228,
-    "stop" : 1650446875228,
+    "start" : 1650448246744,
+    "stop" : 1650448246744,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "285b8b2aa76c6301",
-  "name" : "输入小于-99的加数_01",
-  "time" : {
-    "start" : 1650446875232,
-    "stop" : 1650446875232,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5e4e414241c5a785",
-  "name" : "输入-99到99之间的浮点数",
-  "time" : {
-    "start" : 1650446875227,
-    "stop" : 1650446875227,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7cf35671801ebb8e",
+  "uid" : "f082e7ee4e880c72",
   "name" : "输入大于99的加数_01",
   "time" : {
-    "start" : 1650446875229,
-    "stop" : 1650446875229,
+    "start" : 1650448246740,
+    "stop" : 1650448246740,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fda09c78242b651",
+  "name" : "输入小于-99的加数_02",
+  "time" : {
+    "start" : 1650448246708,
+    "stop" : 1650448246708,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50279f868a2e888a",
+  "name" : "输入除数为0",
+  "time" : {
+    "start" : 1650448246711,
+    "stop" : 1650448246711,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8a03b06e37d831a7",
+  "name" : "输入大于99的加数_02",
+  "time" : {
+    "start" : 1650448246749,
+    "stop" : 1650448246749,
     "duration" : 0
   },
   "status" : "passed",

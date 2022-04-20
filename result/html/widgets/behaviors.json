@@ -1,4 +1,15 @@
 {
-  "total" : 6,
-  "items" : [ ]
+  "total" : 1,
+  "items" : [ {
+    "uid" : "ea4a8546ea5038363e8dc9c20218d1c6",
+    "name" : "测试项目",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
 }
